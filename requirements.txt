@@ -1,0 +1,23 @@
+# Advanced AI Algorithm 项目依赖
+# 数据处理和科学计算
+pandas>=1.5.0
+numpy>=1.21.0
+
+# 数据可视化
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# 机器学习和数据预处理
+scikit-learn>=1.0.0
+
+# 深度学习和嵌入模型
+sentence-transformers>=2.0.0
+torch>=1.10.0
+transformers>=4.0.0
+
+# 高级降维算法
+umap-learn>=0.5.0
+
+# 其他工具库
+tqdm>=4.64.0
+typing-extensions>=4.0.0
