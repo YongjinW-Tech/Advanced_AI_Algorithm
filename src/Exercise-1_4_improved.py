@@ -273,8 +273,8 @@ class ImprovedUserVectorizer:
         plt.tight_layout()
         
         if save_plot:
-            plt.savefig('../output/dimensionality_reduction_comparison.png', dpi=300, bbox_inches='tight')
-            print("对比图表已保存为 '../output/dimensionality_reduction_comparison.png'")
+            plt.savefig('./output/dimensionality_reduction_comparison.png', dpi=300, bbox_inches='tight')
+            print("对比图表已保存为 './output/dimensionality_reduction_comparison.png'")
         
         plt.show()
     
@@ -356,10 +356,10 @@ def main():
     
     # 加载数据
     try:
-        df = pd.read_csv('../output/user_profiles.csv')
+        df = pd.read_csv('./output/user_profiles.csv')
         print(f"成功加载用户数据: {len(df)} 条记录")
     except FileNotFoundError:
-        print("未找到用户数据文件，请先运行 Exercise-1.py 生成数据")
+        print("未找到用户数据文件，请先运行 Exercise-1_1.py 生成数据")
         return
     
     # 创建改进的向量化器
@@ -404,7 +404,7 @@ def main():
         result_df[f'{method_name}_X'] = result['vectors'][:, 0]
         result_df[f'{method_name}_Y'] = result['vectors'][:, 1]
         
-        output_file = f'../output/user_vectors_{method_name.lower()}.csv'
+        output_file = f'./output/user_vectors_{method_name.lower()}.csv'
         result_df.to_csv(output_file, index=False, encoding='utf-8-sig')
         print(f"  结果已保存到: {output_file}")
     
