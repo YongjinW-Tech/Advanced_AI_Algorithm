@@ -10,8 +10,8 @@ This project is the compilation of learning materials and summary of knowledge p
 
 | Week | Theme | Content Summary|
 |--------|------|-----------|
-| Week 1 | Lecture 01: Overview of AI and Mathematical Foundations | Core Concepts and Development of AI, Mathematical Fundamentals 1- Probability Theory and Data Distribution, Mathematical Fundamentals 2- Linear Algebra and Data Representation, Mathematical Fundamentals 3- Calculus and Optimization Thinking \\ AI 核心概念与发展、数学基础1-概率论与数据的分布、数学基础2-线性代数与数据表示、数学基础3-微积分与优化思想 |
-| Week 2 | Lecture 02: Foundations of Statistical Machine Learning | 监督学习（线性回归、逻辑回归、决策树与集成学习）、无监督学习（聚类、降维与关联规则）、评价指标 |
+| Week 1 | Lecture 01: Overview of AI and Mathematical Foundations | Core Concepts and Development of AI, Mathematical Fundamentals 1- Probability Theory and Data Distribution, Mathematical Fundamentals 2- Linear Algebra and Data Representation, Mathematical Fundamentals 3- Calculus and Optimization Thinking <br> AI 核心概念与发展、数学基础1-概率论与数据的分布、数学基础2-线性代数与数据表示、数学基础3-微积分与优化思想 |
+| Week 2 | Lecture 02: Foundations of Statistical Machine Learning | Supervised learning (linear regression, logistic regression, decision tree, and ensemble learning), unsupervised learning (clustering, dimensionality reduction, and association rules), evaluation metrics <br/> 监督学习（线性回归、逻辑回归、决策树与集成学习）、无监督学习（聚类、降维与关联规则）、评价指标 |
 | Week 3 | 知识表示与向量检索 | 知识图谱、向量数据库、符号推理与大模型融合 |
 | Week 4 | 控制论与强化学习 | MDP、Q-Learning、DQN 入门、反馈机制 |
 | Week 5 | 感知机与浅层网络 | 感知机原理、MLP 正则化与反向传播 |
