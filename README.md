@@ -10,14 +10,14 @@ This project is the compilation of learning materials and summary of knowledge p
 
 | Week | Theme | Content Summary|
 |------|------|-----------|
-| Weak 1 | Lecture 01: Overview of AI and Mathematical Foundations | AI 核心概念与发展、数学基础1-概率论与数据的分布、数学基础2-线性代数与数据表示、数学基础3-微积分与优化思想 |
-| Weak 2 | Lecture 02: Foundations of Statistical Machine Learning | 监督学习（线性回归、逻辑回归、决策树与集成学习）、无监督学习（聚类、降维与关联规则）、评价指标 |
-| 第 3 周 | 知识表示与向量检索 | 知识图谱、向量数据库、符号推理与大模型融合 |
-| 第 4 周 | 控制论与强化学习 | MDP、Q-Learning、DQN 入门、反馈机制 |
-| 第 5 周 | 感知机与浅层网络 | 感知机原理、MLP 正则化与反向传播 |
-| 第 6 周 | CNN 与 RNN | 卷积网络结构、残差网络、循环网络、词嵌入 |
-| 第 7 周 | Transformer 与大模型 | 自注意力、BERT/GPT、生成式 AI、GNN |
-| 第 8 周 | 深度强化学习与融合 | Double DQN、PPO、RLHF、多范式融合 |
+| Week 1 | Lecture 01: Overview of AI and Mathematical Foundations | AI 核心概念与发展、数学基础1-概率论与数据的分布、数学基础2-线性代数与数据表示、数学基础3-微积分与优化思想 |
+| Week 2 | Lecture 02: Foundations of Statistical Machine Learning | 监督学习（线性回归、逻辑回归、决策树与集成学习）、无监督学习（聚类、降维与关联规则）、评价指标 |
+| Week 3 | 知识表示与向量检索 | 知识图谱、向量数据库、符号推理与大模型融合 |
+| Week 4 | 控制论与强化学习 | MDP、Q-Learning、DQN 入门、反馈机制 |
+| Week 5 | 感知机与浅层网络 | 感知机原理、MLP 正则化与反向传播 |
+| Week 6 | CNN 与 RNN | 卷积网络结构、残差网络、循环网络、词嵌入 |
+| Week 7 | Transformer 与大模型 | 自注意力、BERT/GPT、生成式 AI、GNN |
+| Week 8 | 深度强化学习与融合 | Double DQN、PPO、RLHF、多范式融合 |
 
 ### 第二阶段：AI 系统工程师（专业实践）
 
