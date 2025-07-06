@@ -9,7 +9,7 @@ This project is the compilation of learning materials and summary of knowledge p
 ### Phase 1: Algorithm Section (Theoretical Section)
 
 | Week | Theme | Content Summary|
-|------|------|-----------|
+|--------|------|-----------|
 | Week 1 | Lecture 01: Overview of AI and Mathematical Foundations | AI 核心概念与发展、数学基础1-概率论与数据的分布、数学基础2-线性代数与数据表示、数学基础3-微积分与优化思想 |
 | Week 2 | Lecture 02: Foundations of Statistical Machine Learning | 监督学习（线性回归、逻辑回归、决策树与集成学习）、无监督学习（聚类、降维与关联规则）、评价指标 |
 | Week 3 | 知识表示与向量检索 | 知识图谱、向量数据库、符号推理与大模型融合 |
