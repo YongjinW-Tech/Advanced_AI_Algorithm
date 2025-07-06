@@ -19,14 +19,14 @@ This project is the compilation of learning materials and summary of knowledge p
 | Week 7 | Transformer 与大模型 | 自注意力、BERT/GPT、生成式 AI、GNN |
 | Week 8 | 深度强化学习与融合 | Double DQN、PPO、RLHF、多范式融合 |
 
-### 第二阶段：AI 系统工程师（专业实践）
+### Phase 2: AI System Engineer (Professional Practice)
 
-| 周次 | 主题 | 内容摘要 |
+| Week | Theme | Content Summary |
 |------|------|-----------|
-| 第 9 周 | 模型部署与推理优化 | Docker、FastAPI、量化与剪枝、云边端部署 |
-| 第 10 周 | 模型监控与自动化 | CI/CD、Prometheus、日志告警、合规与安全 |
-| 第 11 周 | 可解释 AI 与模型安全 | LIME/SHAP、对抗攻击、偏见检测与鲁棒性 |
-| 第 12 周 | 多模态与 AutoML | 融合图文、扩散模型、AutoKeras、联邦学习 |
-| 第 13 周 | 回顾与项目设计 | 课程整理、ChatGPT/Manus 系统设计方案 |
+| Week 9 | 模型部署与推理优化 | Docker、FastAPI、量化与剪枝、云边端部署 |
+| Week 10 | 模型监控与自动化 | CI/CD、Prometheus、日志告警、合规与安全 |
+| Week 11 | 可解释 AI 与模型安全 | LIME/SHAP、对抗攻击、偏见检测与鲁棒性 |
+| Week 12 | 多模态与 AutoML | 融合图文、扩散模型、AutoKeras、联邦学习 |
+| Week 13 | 回顾与项目设计 | 课程整理、ChatGPT/Manus 系统设计方案 |
 
 ---
