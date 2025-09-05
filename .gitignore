@@ -1,1 +1,11 @@
 test_bed/
+
+# 排除的目录
+slides/
+output/
+Core Content Q&A/
+.vscode/
+
+# 系统文件
+.DS_Store
+*.DS_Store
