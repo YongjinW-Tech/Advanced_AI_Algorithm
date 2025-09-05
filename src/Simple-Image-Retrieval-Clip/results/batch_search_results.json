@@ -1,0 +1,162 @@
+{
+  "./results/temp_query/cheap-4.png": [
+    {
+      "rank": 1,
+      "image_path": "../ResNet-50_Fine-Tuning/data/test/cheap-4.png",
+      "similarity": 1.000000238418579,
+      "filename": "cheap-4.png"
+    },
+    {
+      "rank": 2,
+      "image_path": "../ResNet-50_Fine-Tuning/data/train/negative/sheep-4.png",
+      "similarity": 0.8690842390060425,
+      "filename": "sheep-4.png"
+    },
+    {
+      "rank": 3,
+      "image_path": "../ResNet-50_Fine-Tuning/data/test/cheap-1.png",
+      "similarity": 0.8544473648071289,
+      "filename": "cheap-1.png"
+    },
+    {
+      "rank": 4,
+      "image_path": "../ResNet-50_Fine-Tuning/data/train/negative/sheep-5.png",
+      "similarity": 0.8452090620994568,
+      "filename": "sheep-5.png"
+    },
+    {
+      "rank": 5,
+      "image_path": "../ResNet-50_Fine-Tuning/data/test/cheap-5.png",
+      "similarity": 0.8429526090621948,
+      "filename": "cheap-5.png"
+    }
+  ],
+  "./results/temp_query/Ultraman-8.png": [
+    {
+      "rank": 1,
+      "image_path": "../ResNet-50_Fine-Tuning/data/test/Ultraman-8.png",
+      "similarity": 0.9999999403953552,
+      "filename": "Ultraman-8.png"
+    },
+    {
+      "rank": 2,
+      "image_path": "../ResNet-50_Fine-Tuning/data/train/positive/Ultraman-7.png",
+      "similarity": 0.8208713531494141,
+      "filename": "Ultraman-7.png"
+    },
+    {
+      "rank": 3,
+      "image_path": "../ResNet-50_Fine-Tuning/data/train/positive/Ultraman-8.png",
+      "similarity": 0.8070913553237915,
+      "filename": "Ultraman-8.png"
+    },
+    {
+      "rank": 4,
+      "image_path": "../ResNet-50_Fine-Tuning/data/train/positive/Ultraman-3.png",
+      "similarity": 0.7951056957244873,
+      "filename": "Ultraman-3.png"
+    },
+    {
+      "rank": 5,
+      "image_path": "../ResNet-50_Fine-Tuning/data/train/positive/Ultraman-5.png",
+      "similarity": 0.777574896812439,
+      "filename": "Ultraman-5.png"
+    }
+  ],
+  "./results/temp_query/Transformers-2.png": [
+    {
+      "rank": 1,
+      "image_path": "../ResNet-50_Fine-Tuning/data/test/Transformers-2.png",
+      "similarity": 1.0,
+      "filename": "Transformers-2.png"
+    },
+    {
+      "rank": 2,
+      "image_path": "../ResNet-50_Fine-Tuning/data/train/negative/Transformers-3.png",
+      "similarity": 0.8616639375686646,
+      "filename": "Transformers-3.png"
+    },
+    {
+      "rank": 3,
+      "image_path": "../ResNet-50_Fine-Tuning/data/train/negative/Transformers-1.png",
+      "similarity": 0.8515195846557617,
+      "filename": "Transformers-1.png"
+    },
+    {
+      "rank": 4,
+      "image_path": "../ResNet-50_Fine-Tuning/data/train/negative/Transformers-4.png",
+      "similarity": 0.8400478959083557,
+      "filename": "Transformers-4.png"
+    },
+    {
+      "rank": 5,
+      "image_path": "../ResNet-50_Fine-Tuning/data/train/negative/Transformers-10.png",
+      "similarity": 0.8299052715301514,
+      "filename": "Transformers-10.png"
+    }
+  ],
+  "./results/temp_query/Ultraman-1.png": [
+    {
+      "rank": 1,
+      "image_path": "../ResNet-50_Fine-Tuning/data/test/Ultraman-1.png",
+      "similarity": 1.000000238418579,
+      "filename": "Ultraman-1.png"
+    },
+    {
+      "rank": 2,
+      "image_path": "../ResNet-50_Fine-Tuning/data/train/positive/Ultraman-31.png",
+      "similarity": 0.8386327028274536,
+      "filename": "Ultraman-31.png"
+    },
+    {
+      "rank": 3,
+      "image_path": "../ResNet-50_Fine-Tuning/data/train/positive/Ultraman-1.png",
+      "similarity": 0.829575777053833,
+      "filename": "Ultraman-1.png"
+    },
+    {
+      "rank": 4,
+      "image_path": "../ResNet-50_Fine-Tuning/data/train/positive/Ultraman-8.png",
+      "similarity": 0.825361967086792,
+      "filename": "Ultraman-8.png"
+    },
+    {
+      "rank": 5,
+      "image_path": "../ResNet-50_Fine-Tuning/data/train/positive/Ultraman-24.png",
+      "similarity": 0.8240541219711304,
+      "filename": "Ultraman-24.png"
+    }
+  ],
+  "./results/temp_query/Ultraman-6.png": [
+    {
+      "rank": 1,
+      "image_path": "../ResNet-50_Fine-Tuning/data/test/Ultraman-6.png",
+      "similarity": 1.0000001192092896,
+      "filename": "Ultraman-6.png"
+    },
+    {
+      "rank": 2,
+      "image_path": "../ResNet-50_Fine-Tuning/data/train/positive/Ultraman-25.png",
+      "similarity": 1.0000001192092896,
+      "filename": "Ultraman-25.png"
+    },
+    {
+      "rank": 3,
+      "image_path": "../ResNet-50_Fine-Tuning/data/train/positive/Ultraman-38.png",
+      "similarity": 0.8750365376472473,
+      "filename": "Ultraman-38.png"
+    },
+    {
+      "rank": 4,
+      "image_path": "../ResNet-50_Fine-Tuning/data/train/negative/ArmorHero-2.png",
+      "similarity": 0.8717514872550964,
+      "filename": "ArmorHero-2.png"
+    },
+    {
+      "rank": 5,
+      "image_path": "../ResNet-50_Fine-Tuning/data/train/negative/ArmorHero-10.png",
+      "similarity": 0.8699252605438232,
+      "filename": "ArmorHero-10.png"
+    }
+  ]
+}

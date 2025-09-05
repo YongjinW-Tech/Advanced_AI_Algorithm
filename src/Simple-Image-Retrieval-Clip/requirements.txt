@@ -1,0 +1,21 @@
+# Exercise-2 CLIP Image Retrieval Requirements
+
+# 核心深度学习库
+torch>=1.10.0
+torchvision>=0.11.0
+
+# CLIP 模型库
+git+https://github.com/openai/CLIP.git
+
+# 机器学习工具
+scikit-learn>=1.0.0
+
+# 图像处理
+Pillow>=9.0.0
+
+# 数据处理和可视化
+numpy>=1.21.0
+matplotlib>=3.5.0
+
+# 文件处理
+pickle-mixin>=1.0.2
