@@ -15,7 +15,7 @@ This project is the compilation of learning materials and summary of knowledge p
 | Week 3 | 知识表示与向量检索 | 知识图谱、向量数据库、符号推理与大模型融合 |
 | Week 4 | 控制论与强化学习 | MDP、Q-Learning、DQN 入门、反馈机制 |
 | Week 5 | 感知机与浅层网络 | 感知机原理、MLP 正则化与反向传播 |
-| Week 6 | Lecture 06 - Connectionism: CNN and RNN | (1) Semantic Generation Mechanisms and Structural Organization across Modalities. 不同模态的语义生成机制与结构组织方式 <br> (2) Visual Modality: Visual Representation and Convolutional Neural Networks, Deep Learning Bottlenecks and Residual Networks (ResNet), Pretraining and Transfer Learning in Visual Models. 视觉模态：视觉表示和卷积神经网络、深度学习瓶颈与残差网络（ResNet）、视觉模型预训练与迁移学习 (3) Language Modality: Language Representation and Recurrent Neural Networks, Language Model Pretraining and Self-Supervised Learning. 语言模态：语言表示与循环神经网络、语言模型预训练与自监督学习 <br> (4) Nature of Data Distribution and Representation Transfer. 数据分布的本质与表示迁移 |
+| Week 6 | Lecture 06 - Connectionism: CNN and RNN | (1) Semantic Generation Mechanisms and Structural Organization across Modalities. <br/>不同模态的语义生成机制与结构组织方式 <br/> (2) Visual Modality: Visual Representation and Convolutional Neural Networks, Deep Learning Bottlenecks and Residual Networks (ResNet), Pretraining and Transfer Learning in Visual Models. <br/>视觉模态：视觉表示和卷积神经网络、深度学习瓶颈与残差网络（ResNet）、视觉模型预训练与迁移学习 <br/> (3) Language Modality: Language Representation and Recurrent Neural Networks, Language Model Pretraining and Self-Supervised Learning. <br/>语言模态：语言表示与循环神经网络、语言模型预训练与自监督学习 <br/>(4) Nature of Data Distribution and Representation Transfer. <br/>数据分布的本质与表示迁移 |
 | Week 7 | Transformer 与大模型 | 自注意力、BERT/GPT、生成式 AI、GNN |
 | Week 8 | 深度强化学习与融合 | Double DQN、PPO、RLHF、多范式融合 |
 
