@@ -24,7 +24,7 @@
     - 核心思想：基于 Transformer 的双向编码器，通过大规模预训练（Masked Language Modeling + Next Sentence Prediction）获得上下文感知的表示。
 	- 理解重点：
 	    - 不再是词的固定向量，而是动态上下文相关的向量。
-	    - 提取 [CLS] 向量或池化后的句子表示，理解“句子级别语义编码”。
+	    - 提取 [CLS] 向量或池化后的句子表示，理解“句子级别语义编码”。/Users/wyjtech/learningspace/Advanced_AI_Algorithm/src/From_Word_to_Multimodal
 	- 目的：体验深度预训练模型如何解决词义歧义、捕捉长距离依赖。
 
 3. 生成模型（OPT）

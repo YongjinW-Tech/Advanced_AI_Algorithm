@@ -1,0 +1,63 @@
+{
+  "sentences": [
+    {"category": "科技", "text": "Apple released its first smartwatch in 2015."},
+    {"category": "科技", "text": "我正在学习如何使用Python进行数据分析。"},
+    {"category": "科技", "text": "Google announced a new AI model that can understand images and text."},
+    {"category": "科技", "text": "他买了一部新的苹果手机，性能非常好。"},
+    {"category": "科技", "text": "Cloud computing is changing the way companies manage data."},
+
+    {"category": "饮食", "text": "I like eating a fresh apple every morning."},
+    {"category": "饮食", "text": "她点了一杯苹果汁配早餐。"},
+    {"category": "饮食", "text": "Apples are rich in vitamins and fiber."},
+    {"category": "饮食", "text": "苹果派是我最喜欢的甜点之一。"},
+    {"category": "饮食", "text": "He bought some green apples from the market."},
+
+    {"category": "日常生活", "text": "She is going to the supermarket to buy some apples."},
+    {"category": "日常生活", "text": "昨天我在公园里跑步，看见很多人在遛狗。"},
+    {"category": "日常生活", "text": "He always carries an apple in his bag for a quick snack."},
+    {"category": "日常生活", "text": "我每天早晨都会喝一杯咖啡。"},
+    {"category": "日常生活", "text": "They are cleaning the house before the guests arrive."},
+
+    {"category": "教育", "text": "The teacher asked the students to write an essay about technology."},
+    {"category": "教育", "text": "老师讲解了机器学习的基本概念。"},
+    {"category": "教育", "text": "He read a book about the history of Apple Inc. for his homework."},
+    {"category": "教育", "text": "在图书馆里，学生们安静地复习考试。"},
+    {"category": "教育", "text": "The professor explained how artificial intelligence works."},
+
+    {"category": "情感", "text": "He gave her an apple as a symbol of love."},
+    {"category": "情感", "text": "她很怀念和朋友一起在苹果树下聊天的时光。"},
+    {"category": "情感", "text": "This movie reminded me of my high school memories."},
+    {"category": "情感", "text": "他写了一首诗，表达对未来的期待。"},
+    {"category": "情感", "text": "She smiled when she received the red apple from him."},
+
+    {"category": "旅游", "text": "They visited the Apple campus in Cupertino during their trip."},
+    {"category": "旅游", "text": "去年夏天我去了北京的长城，非常壮观。"},
+    {"category": "旅游", "text": "He brought back some local apples as souvenirs."},
+    {"category": "旅游", "text": "The hotel offered free breakfast including fresh apple juice."},
+    {"category": "旅游", "text": "We traveled to Paris and visited the Louvre Museum."},
+
+    {"category": "健康", "text": "An apple a day keeps the doctor away."},
+    {"category": "健康", "text": "医生建议我多吃水果，尤其是苹果。"},
+    {"category": "健康", "text": "Regular exercise improves both physical and mental health."},
+    {"category": "健康", "text": "他每天早晨坚持跑步五公里。"},
+    {"category": "健康", "text": "Green apples are said to be good for digestion."},
+
+    {"category": "商业", "text": "Apple's stock price rose significantly after the product launch."},
+    {"category": "商业", "text": "这家公司正在和苹果公司谈合作。"},
+    {"category": "商业", "text": "The startup raised $10 million in its first round of funding."},
+    {"category": "商业", "text": "他计划明年开一家咖啡店。"},
+    {"category": "商业", "text": "Many investors see Apple as a safe long-term investment."},
+
+    {"category": "文化", "text": "Apples often appear as symbols in Western fairy tales."},
+    {"category": "文化", "text": "在中国文化中，苹果代表平安。"},
+    {"category": "文化", "text": "He studied the cultural influence of Apple products in society."},
+    {"category": "文化", "text": "春节是中国最重要的传统节日之一。"},
+    {"category": "文化", "text": "Music festivals are becoming more popular among young people."},
+
+    {"category": "娱乐", "text": "The actor held an apple in one of the movie scenes."},
+    {"category": "娱乐", "text": "她正在看一部关于人工智能的科幻电影。"},
+    {"category": "娱乐", "text": "Apple Music has millions of subscribers worldwide."},
+    {"category": "娱乐", "text": "他们一起去KTV唱歌，很开心。"},
+    {"category": "娱乐", "text": "The comedian made a joke about eating too many apples."}
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "model_config": {
+    "model_name": "facebook/opt-350m",
+    "max_length": 100,
+    "temperature_settings": [0.3, 0.7, 1.0],
+    "top_p_settings": [0.8, 0.9, 0.95],
+    "num_return_sequences": 1
+  },
+  "experiment_config": {
+    "num_prompts_to_test": 5,
+    "num_contexts_to_analyze": 3,
+    "analysis_steps": 5,
+    "top_k_predictions": 10
+  },
+  "output_config": {
+    "save_visualizations": true,
+    "save_model_checkpoint": true,
+    "generate_report": true,
+    "plot_dpi": 300
+  }
+}
