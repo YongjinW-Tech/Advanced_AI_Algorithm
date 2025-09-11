@@ -5,6 +5,8 @@ output/
 Core Content Q&A/
 .vscode/
 src/ResNet-50_Fine-Tuning/checkpoints/
+src/From_Word_to_Multimodal/model-checkpoint/
+src/From_Word_to_Multimodal/results/
 
 # 系统文件
 .DS_Store
