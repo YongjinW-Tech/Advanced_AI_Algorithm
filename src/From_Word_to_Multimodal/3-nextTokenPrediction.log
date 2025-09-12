@@ -1,0 +1,56 @@
+2025-09-12 21:50:57,626 - INFO - Next Token Prediction experiment begins!
+2025-09-12 21:50:57,628 - INFO - Working directory: /Users/wyjtech/learningspace/Advanced_AI_Algorithm/src/From_Word_to_Multimodal
+2025-09-12 21:50:57,628 - INFO - Data file: /Users/wyjtech/learningspace/Advanced_AI_Algorithm/src/From_Word_to_Multimodal/text_generation_data.json
+2025-09-12 21:50:57,628 - INFO - Results directory: /Users/wyjtech/learningspace/Advanced_AI_Algorithm/src/From_Word_to_Multimodal/results
+2025-09-12 21:50:57,628 - INFO - Checkpoint directory: /Users/wyjtech/learningspace/Advanced_AI_Algorithm/src/From_Word_to_Multimodal/model-checkpoint
+2025-09-12 21:50:57,628 - INFO - Initializing experiment...
+2025-09-12 21:50:57,628 - INFO - Data loaded successfully, containing 15 prompts
+2025-09-12 21:50:57,628 - INFO - Setting up model...
+2025-09-12 21:50:57,628 - INFO - Setting up model: facebook/opt-350m
+2025-09-12 21:50:57,628 - INFO - Initializing Next Token Predictor...
+2025-09-12 21:50:57,628 - INFO - Using device: cpu
+2025-09-12 21:50:57,628 - INFO - Model: facebook/opt-350m
+2025-09-12 21:50:57,628 - INFO - Loading tokenizer...
+2025-09-12 21:50:59,104 - INFO - Tokenizer loaded successfully
+2025-09-12 21:50:59,105 - INFO - Loading model...
+2025-09-12 21:51:01,226 - INFO - Model loaded successfully
+2025-09-12 21:51:01,229 - INFO - Model loading completed successfully
+2025-09-12 21:51:01,229 - INFO - Running text generation experiments...
+2025-09-12 21:51:01,229 - INFO - Beginning text generation experiments...
+2025-09-12 21:51:21,088 - INFO - Running Next Token prediction analysis...
+2025-09-12 21:51:21,088 - INFO - Beginning Next Token prediction analysis...
+2025-09-12 21:51:21,325 - INFO - Step 1: '
+' (probability: 0.1939)
+2025-09-12 21:51:21,446 - INFO - Step 2: '
+' (probability: 0.7942)
+2025-09-12 21:51:21,564 - INFO - Step 3: ' ' (probability: 0.1814)
+2025-09-12 21:51:21,682 - INFO - Step 4: '�' (probability: 0.2241)
+2025-09-12 21:51:21,801 - INFO - Step 5: '�' (probability: 0.0439)
+2025-09-12 21:51:22,008 - INFO - Step 1: '
+' (probability: 0.3124)
+2025-09-12 21:51:22,113 - INFO - Step 2: '
+' (probability: 0.8197)
+2025-09-12 21:51:22,217 - INFO - Step 3: ' �' (probability: 0.1272)
+2025-09-12 21:51:22,322 - INFO - Step 4: ' ' (probability: 0.0522)
+2025-09-12 21:51:22,425 - INFO - Step 5: '�' (probability: 0.1904)
+2025-09-12 21:51:22,633 - INFO - Step 1: '
+' (probability: 0.2767)
+2025-09-12 21:51:22,734 - INFO - Step 2: '
+' (probability: 0.7984)
+2025-09-12 21:51:22,835 - INFO - Step 3: ' �' (probability: 0.1609)
+2025-09-12 21:51:22,937 - INFO - Step 4: ' ' (probability: 0.0528)
+2025-09-12 21:51:23,039 - INFO - Step 5: '�' (probability: 0.1826)
+2025-09-12 21:51:23,039 - INFO - Generating visualization results...
+2025-09-12 21:51:23,483 - INFO - Token prediction probability plot saved
+2025-09-12 21:51:23,820 - INFO - Generation process plot saved
+2025-09-12 21:51:24,010 - INFO - Parameter comparison plot saved
+2025-09-12 21:51:24,010 - INFO - Saving experiment results...
+2025-09-12 21:51:24,011 - INFO - Experiment results saved to: /Users/wyjtech/learningspace/Advanced_AI_Algorithm/src/From_Word_to_Multimodal/results
+2025-09-12 21:51:24,011 - INFO - Saving model checkpoint...
+2025-09-12 21:51:24,769 - INFO - Model has been saved to: /Users/wyjtech/learningspace/Advanced_AI_Algorithm/src/From_Word_to_Multimodal/model-checkpoint
+2025-09-12 21:51:24,769 - INFO - ==================================================
+2025-09-12 21:51:24,769 - INFO - Next Token Prediction experiment completed!
+2025-09-12 21:51:24,769 - INFO - Results saved in: /Users/wyjtech/learningspace/Advanced_AI_Algorithm/src/From_Word_to_Multimodal/results
+2025-09-12 21:51:24,769 - INFO - Model saved in: /Users/wyjtech/learningspace/Advanced_AI_Algorithm/src/From_Word_to_Multimodal/model-checkpoint
+2025-09-12 21:51:24,769 - INFO - Completed 5 text generation experiments
+2025-09-12 21:51:24,769 - INFO - Completed 3 token prediction analyses
