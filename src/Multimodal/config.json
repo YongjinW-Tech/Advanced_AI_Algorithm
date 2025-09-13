@@ -1,0 +1,87 @@
+{
+  "experiment_name": "clip_multimodal_training",
+  "description": "CLIP模型在自定义图像-文本对数据上的微调实验",
+  
+  "data": {
+    "data_dir": "./data",
+    "train_split": 0.8,
+    "val_split": 0.2,
+    "image_size": [224, 224],
+    "max_text_length": 77,
+    "augmentation": {
+      "enabled": false,
+      "rotation_range": 10,
+      "brightness_range": 0.1,
+      "contrast_range": 0.1
+    }
+  },
+  
+  "model": {
+    "name": "ViT-B/32",
+    "alternatives": ["ViT-B/16", "ViT-L/14", "RN50", "RN101"],
+    "projection_dim": 512,
+    "freeze_backbone": false,
+    "dropout": 0.1
+  },
+  
+  "training": {
+    "batch_size": 32,
+    "num_epochs": 50,
+    "learning_rate": 1e-4,
+    "weight_decay": 0.01,
+    "optimizer": "AdamW",
+    "scheduler": {
+      "type": "linear_warmup",
+      "warmup_steps": 1000,
+      "total_steps": "auto"
+    },
+    "gradient_clip_norm": 1.0,
+    "mixed_precision": false
+  },
+  
+  "loss": {
+    "type": "contrastive",
+    "temperature": 0.07,
+    "symmetric": true
+  },
+  
+  "validation": {
+    "frequency": 1,
+    "metrics": ["recall@1", "recall@5", "recall@10", "rsum"],
+    "early_stopping": {
+      "enabled": true,
+      "patience": 10,
+      "monitor": "val_loss",
+      "mode": "min"
+    }
+  },
+  
+  "checkpoint": {
+    "save_dir": "./model-checkpoint",
+    "save_frequency": 5,
+    "save_best_only": true,
+    "monitor": "val_loss",
+    "mode": "min"
+  },
+  
+  "logging": {
+    "log_dir": "./logs",
+    "log_frequency": 10,
+    "tensorboard": true,
+    "wandb": false,
+    "verbose": true
+  },
+  
+  "hardware": {
+    "device": "auto",
+    "num_workers": 4,
+    "pin_memory": true,
+    "non_blocking": true
+  },
+  
+  "reproducibility": {
+    "seed": 42,
+    "deterministic": false,
+    "benchmark": true
+  }
+}

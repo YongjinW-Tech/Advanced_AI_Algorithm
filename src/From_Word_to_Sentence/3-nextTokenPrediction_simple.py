@@ -1,13 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Next Token Prediction 简化演示版本
-使用本地训练的简单模型演示 Next Token Prediction 原理
-
-Author: AI Algorithm Course
-Date: 2025-09-11
-"""
-
 import json
 import os
 import torch
